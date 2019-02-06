@@ -1,5 +1,5 @@
-token= هنا حق التوكين حق بوتك
-owner= 249557620577402890 p
+token= NTI2ODAwODEyNDg4MjYxNjMy.DzzhsQ.wSIoa5hTI7zycKf-ZLi0dSYtw5A
+owner= 249557620577402890
 prefix= .r
 game= Type .rplay  
 stayinchannel=true 
